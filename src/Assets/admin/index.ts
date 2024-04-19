@@ -1,0 +1,1 @@
+export {default as adminImg} from "./adminImg.png"
